@@ -3,6 +3,7 @@ README.md
 setup.cfg
 setup.py
 drf_simplejwt_additions/__init__.py
+drf_simplejwt_additions/middleware.py
 drf_simplejwt_additions/serializers.py
 drf_simplejwt_additions/views.py
 drf_simplejwt_additions.egg-info/PKG-INFO
