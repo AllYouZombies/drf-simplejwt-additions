@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: drf-simplejwt-additions
-Version: 1.1.1
+Version: 1.1.2
 Summary: Additions for Django Rest Framework Simple JWT
 Home-page: https://github.com/AllYouZombies/drf-simplejwt-additions
 Author: Astafeev Rustam
